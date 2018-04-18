@@ -4,7 +4,7 @@ chardet==3.0.4
 enum34==1.1.6
 idna==2.6
 requests==2.7.0
-telebot==0.0.3
+PyTelegramBotAPI==2.2.3
 urllib3==1.22
 urlopen==1.0.0
 vk-api==10.0
